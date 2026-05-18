@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259746544404",
+    "project_id": "project-easy-rider",
+    "storage_bucket": "project-easy-rider.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259746544404:android:451bcbd04c5a4508942001",
+        "android_client_info": {
+          "package_name": "com.easyrider.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1_Z6WCtNVg_TVGxGJ1arxB1toYL2gBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
